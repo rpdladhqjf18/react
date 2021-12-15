@@ -1,2 +1,1 @@
-console
-sdfsdfsfd
+console.log("집에가고싶어요")
