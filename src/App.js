@@ -4,7 +4,7 @@ import { Home, About } from './pages';
 import Csi from './csi/main';
 import Hjt from './hjt/main';
 import Hyg from './hyg/main';
-import Lhi from './lhi/main';
+import Lhi from './lhi/OSM';
 
 function App(){
         return (
