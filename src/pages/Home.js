@@ -21,7 +21,7 @@ const Home = () => {
                     </NavLink>
                 </li>
                 <li>
-                    <NavLink to="hyg" style={({ isActive }) => ({ color:isActive?'green':'blue'})}>
+                    <NavLink to="hyk" style={({ isActive }) => ({ color:isActive?'green':'blue'})}>
                         한유경
                     </NavLink>
                 </li>
